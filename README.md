@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Allan
-- 👀 I’m interested in coding.
-- 🌱 I’m currently learning java.
-- 💞️ I’m looking to collaborate on web development projects
+ Hi, I am Allan Joseph
+ I love to create Web Applications.
+ I am currently working on a Backend Project using Jamstack.
+ I’m looking forward to collaborating on web development projects.
 
 <!---
 Allan2024/Allan2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
