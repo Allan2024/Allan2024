@@ -30,6 +30,9 @@ Feel free to reach out to me if you're interested in collaborating on web develo
  
    
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2024)](https://github.com/anuraghazra/github-readme-stats)
+[![Allan Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2024&show_icons=true&theme=radical)](https://github.com/Allan2024)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2024&layout=compact&langs_count=8)](https://github.com/Allan2024)
 <!---
 Allan2024/Allan2024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
