@@ -27,11 +27,6 @@ I'm passionate about creating innovative web applications and exploring the real
 
 Feel free to reach out to me if you're interested in collaborating on web development or data analysis projects!
 
- 
-   
-
-[![Allan Joseph's GitHub stats](https://github-readme-stats.vercel.app/api?username=Allan2024&show_icons=true&theme=radical)](https://github.com/Allan2024)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Allan2024&layout=compact&langs_count=8)](https://github.com/Allan2024)
 
 
