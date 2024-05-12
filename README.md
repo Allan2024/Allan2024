@@ -1,4 +1,4 @@
-Hi there, I'm Allan Joseph 👋
+- Hi there, I'm Allan Joseph 👋
 I'm passionate about creating innovative web applications and exploring the realms of data analysis. Currently, I'm diving deep into the world of Backend Development using the Jamstack architecture, aiming to build scalable and efficient web solutions.
 
 🚀 Skills & Expertise:
