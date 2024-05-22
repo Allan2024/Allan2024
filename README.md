@@ -15,7 +15,7 @@ I'm passionate about creating innovative web applications and exploring the real
 - Engaged in a major project aimed at recommending agricultural schemes to farmers, leveraging data analysis and machine learning to optimize resource allocation and increase agricultural productivity.
 
 🌱 **I’m currently learning:**
-- Advanced data analysis techniques and cloud computing.
+- Advanced data analysis techniques.
 
 🤝 **I’m looking to collaborate on:**
 - Web development projects, particularly those involving frontend frameworks like React.js.
